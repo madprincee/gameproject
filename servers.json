@@ -4,12 +4,12 @@
     {
       "id": 1,
       "name": "Elden Online (EN)",
-      "status": "on"
+      "status": "off"
     },
     {
       "id": 2,
       "name": "Elden Online (RU)",
-      "status": "off"
+      "status": "on"
     }
   ]
 }
