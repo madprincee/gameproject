@@ -1,0 +1,15 @@
+
+{
+  "servers": [
+    {
+      "id": 1,
+      "name": "Elden Online (EN)",
+      "status": "on"
+    },
+    {
+      "id": 2,
+      "name": "Elden Online (RU)",
+      "status": "on"
+    }
+  ]
+}
