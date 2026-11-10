@@ -1,28 +1,33 @@
+
 {
-    "news": [
-        {
-            "id": 4,
-            "title": {"en": "The Lands Between go online", "ru": "Междуземье выходит в онлайн"},
-            "tag": {"en": "Announcement", "ru": "Анонс"},
-            "image": "elden_1.jpg"
-        },
-        {
-            "id": 3,
-            "title": {"en": "Closed beta signups are open", "ru": "Открыт набор на закрытый бета-тест"},
-            "tag": {"en": "Beta", "ru": "Бета"},
-            "image": "elden_2.jpg"
-        },
-        {
-            "id": 2,
-            "title": {"en": "Co-op and PvP rules", "ru": "Правила кооператива и PvP"},
-            "tag": {"en": "Guide", "ru": "Гайд"},
-            "image": "elden_3.jpg"
-        },
-        {
-            "id": 1,
-            "title": {"en": "Servers EN and RU are live", "ru": "Серверы EN и RU запущены"},
-            "tag": {"en": "Servers", "ru": "Серверы"},
-            "image": "elden_4.jpg"
-        }
-    ]
+  "news": [
+    {
+      "id": 2,
+      "title": {
+        "en": "The Lands Between go online",
+        "ru": "Междуземье выходит в онлайн",
+        "zh": "交界地正式上线"
+      },
+      "tag": {
+        "en": "Announcement",
+        "ru": "Анонс",
+        "zh": "公告"
+      },
+      "image": "img/last-update1.png"
+    },
+    {
+      "id": 1,
+      "title": {
+        "en": "Closed beta signups are open",
+        "ru": "Открыт набор на закрытый бета-тест",
+        "zh": "封闭测试报名现已开放"
+      },
+      "tag": {
+        "en": "Beta",
+        "ru": "Бета",
+        "zh": "测试"
+      },
+      "image": "img/last-update2.png"
+    }
+  ]
 }
